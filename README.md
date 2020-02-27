@@ -1,3 +1,3 @@
 # popupdemo
 
-a demo app demostrating unmasking Aandroid PopupMenu with FS.addClass()
+An android app demostrating unmasking Aandroid PopupMenu with FS.addClass()
